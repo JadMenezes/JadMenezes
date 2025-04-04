@@ -28,6 +28,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/JadMenezes/JadMenezes/output/github-contribution-grid-snake.svg)
 
+
 <img align="center" alt="thank-u" height="200" width="300" src="https://github.com/user-attachments/assets/4a1d854e-05bb-446f-b6ad-3b1502809986">
 
 
