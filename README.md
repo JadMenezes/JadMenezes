@@ -1,4 +1,4 @@
-## Hi, I'm Jade Menezes!👋🏻🫶🏻 
+## Hi, There!👋🏻🫶🏻 
 
 <div style="display: inline_block"><br>
 <img align="right" alt="jade-jogando" height="200" width="200" src="https://github.com/user-attachments/assets/93d40656-0771-4034-a190-d9e8ab0c4d61">    
